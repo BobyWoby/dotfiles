@@ -1,0 +1,40 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/into-the-deep">
+          <value>
+            <RecentProjectMetaInfo frameTitle="into-the-deep – README.md [into-the-deep]" opened="true" projectWorkspaceId="2x8cbFzVM8Q3lbDrCQwKEacQ5us">
+              <option name="activationTimestamp" value="1747599572628" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-243.25659.59.2432.13423653" />
+              <option name="buildTimestamp" value="1745949840000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="1287" y="457" width="626" height="370" />
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1747428677124" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudioProjects/FtcRobotController">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2xHUWcR3bWu9v7RcPbuKPPr3xJ7">
+              <option name="activationTimestamp" value="1747598545134" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="AI-243.25659.59.2432.13423653" />
+              <option name="buildTimestamp" value="1745949840000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <option name="productionCode" value="AI" />
+              <option name="projectOpenTimestamp" value="1747594525213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/StudioProjects/into-the-deep" />
+  </component>
+</application>

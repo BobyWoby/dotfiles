@@ -1,0 +1,7 @@
+[Added Associations]
+application/zip=unzip.desktop;
+image/png=imv-2.desktop;
+
+[Default Applications]
+application/zip=unzip.desktop;
+image/png=imv-2.desktop;

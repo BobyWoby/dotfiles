@@ -1,0 +1,10 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/StudioProjects/FtcRobotController" value="true" />
+        <entry key="$USER_HOME$/StudioProjects/into-the-deep" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+2025/05/18-21:15:56.079 4be Reusing MANIFEST /home/bobywoby/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/05/18-21:15:56.088 4be Recovering log #19
+2025/05/18-21:15:56.088 4be Reusing old log /home/bobywoby/.config/discord/Local Storage/leveldb/000019.log 
+2025/05/19-17:00:14.973 4be Level-0 table #23: started
+2025/05/19-17:00:14.982 4be Level-0 table #23: 1015960 bytes OK
+2025/05/19-17:00:14.983 4be Delete type=0 #19
+2025/05/19-17:00:14.984 4be Compacting 4@0 + 1@1 files
+2025/05/19-17:00:15.004 4be Generated table #24@0: 174 keys, 2080737 bytes
+2025/05/19-17:00:15.004 4be Compacted 4@0 + 1@1 files => 2080737 bytes
+2025/05/19-17:00:15.005 4be compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/05/19-17:00:15.006 4be Delete type=2 #20
+2025/05/19-17:00:15.006 4be Delete type=2 #15
+2025/05/19-17:00:15.006 4be Delete type=2 #17
+2025/05/19-17:00:15.006 4be Delete type=2 #13
+2025/05/19-17:00:15.006 4be Delete type=2 #23
