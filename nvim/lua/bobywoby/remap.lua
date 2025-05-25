@@ -1,6 +1,7 @@
 vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.keymap.set("n", "<C-d>", '<C-d>zz')
 vim.keymap.set("n", "<C-u>", '<C-u>zz')
+vim.keymap.set("n", "n", 'nzz')
 
 vim.keymap.set("v", "J", ":m '>+1<CR>gv=gv")
 vim.keymap.set("v", "K", ":m '<-2<CR>gv=gv")
@@ -39,8 +40,10 @@ vim.keymap.set({ 'n' }, '<Leader>k', function()
     vim.lsp.buf.signature_help()
 end, { silent = true, noremap = true, desc = 'toggle signature' })
 
+vim.keymap.set('n', 'ga', function ()
+    vim.lsp.buf.code_action()
+end)
 
-vim.keymap.set("n", "<leader>o", 'o<Esc>k<C-c>')
 
 
 vim.schedule(function()
@@ -84,7 +87,7 @@ vim.keymap.set('n', "<space>?", function()
     require("dapui").eval(nil, {enter = true})
 end)
 
-vim.keymap.set('n', "<leader>dq", function ()
+vim.keymap.set('n', "<Esc>", function ()
     require("dapui").close()
 end)
 

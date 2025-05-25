@@ -108,7 +108,12 @@ use {
 }
 
 
-use 'mfussenegger/nvim-dap'
 use { "rcarriga/nvim-dap-ui", requires = {"mfussenegger/nvim-dap", "nvim-neotest/nvim-nio"} }
 use  'theHamsta/nvim-dap-virtual-text'
+
+use({
+    "aserowy/tmux.nvim",
+    config = function() return require("tmux").setup() end
+})
+
 end)

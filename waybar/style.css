@@ -37,6 +37,7 @@ tooltip {
     color:@color9;
 }
 #custom-notification {
+    font-size: 35px;
     padding: 0px 5px;
     transition: all .3s ease;
     color:@color7;

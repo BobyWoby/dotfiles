@@ -18,6 +18,8 @@ configuration {
 	location: 0;
 	font: "Adwaita Mono Nerd Font 12";	
 	display-drun: "Launch:";
+    display-combi: "Run:";
+
 }
 window { 
 	width: 35%;
