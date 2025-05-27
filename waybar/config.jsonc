@@ -29,7 +29,7 @@
     "clock": {
         "format": "{:%I:%M:%S %p} ",
         "interval": 1,   
-        "tooltip-format": "<tt>{calendar}</tt>",
+        "tooltip-format":"Current date: {:%m/%d/%Y} \n\n<tt>{calendar}</tt>",
         "calendar": {
             "format": {
                 "today": "<span color='#fAfBfC'><b>{}</b></span>"
