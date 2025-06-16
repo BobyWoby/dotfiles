@@ -1,0 +1,6 @@
+2025/06/16-04:31:25.590 8e8 Reusing MANIFEST /home/bobywoby/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/06/16-04:31:25.596 8e8 Recovering log #111
+2025/06/16-04:31:25.597 8e8 Reusing old log /home/bobywoby/.config/discord/Local Storage/leveldb/000111.log 
+2025/06/16-04:35:06.022 684 Level-0 table #116: started
+2025/06/16-04:35:06.052 684 Level-0 table #116: 1050210 bytes OK
+2025/06/16-04:35:06.054 684 Delete type=0 #111

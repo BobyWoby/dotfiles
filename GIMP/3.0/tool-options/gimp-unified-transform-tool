@@ -1,0 +1,6 @@
+# GIMP gimp-unified-transform-tool options
+
+(background
+    (color "R'G'B'A double" 32 "\0\0\0\0\40\21\301\77\0\0\0\0\44\24\304\77\0\0\0\100\252\230\310\77\0\0\0\0\0\0\360\77" 0))
+
+# end of gimp-unified-transform-tool options
