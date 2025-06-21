@@ -1,0 +1,34 @@
+{
+  "whitelist": [
+  ],
+  "blacklist": [
+    {
+      "type": "TPU",
+      "action": "prohibition",
+      "description": "TPU: not supported"
+    },
+    {
+      "type": "PVA",
+      "action": "warning",
+      "description": "PVA: flexible"
+    },
+    {
+      "type_suffix": "CF",
+      "action": "warning",
+      "description": "CF/GF: hard and brittle"
+    },
+    {
+      "type_suffix": "GF",
+      "action": "warning",
+      "description": "CF/GF: hard and brittle"
+    },
+    {
+      "vendor": "Bambu Lab",
+      "type": "PLA",
+      "name": "PLA Glow",
+	  "model_id":["N1","N2S"],
+      "action": "warning",
+      "description": "PLA-Glow"
+    }
+  ]
+}

@@ -34,7 +34,7 @@ function binds.apply(config)
             key = ',',
             mods = 'ALT',
             action = wezterm.action.SpawnCommandInNewTab {
-                cwd = wezterm.home_dir,
+                cwd = "~/.config/",
                 args = { 'nvim', wezterm.config_file },
             },
         },

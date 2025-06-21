@@ -10,10 +10,10 @@
     <tag>round</tag>
   </resource>
 
-  <resource identifier="internal:gimp-brush-clipboard-image//Clipboard Image" checksum="157dcef48665ab465439cfaf10d6feeb">
+  <resource identifier="internal:gimp-brush-clipboard-image//Clipboard Image" checksum="cfee9d631137760a8cfae3caa7aaab81">
   </resource>
 
-  <resource identifier="internal:gimp-brush-clipboard-mask//Clipboard Mask" checksum="157dcef48665ab465439cfaf10d6feeb">
+  <resource identifier="internal:gimp-brush-clipboard-mask//Clipboard Mask" checksum="00b69f099bd852b70b8b28e49f26efe8">
   </resource>
 
   <resource identifier="external:${gimp_data_dir}/brushes/Basic/1-pixel.vbr//1. Pixel" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -769,7 +769,7 @@
   <resource identifier="external:${mypaint_brushes_dir}/ramon/wet_round.myb//wet round" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
-  <resource identifier="internal:gimp-pattern-clipboard-image//Clipboard Image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
+  <resource identifier="internal:gimp-pattern-clipboard-image//Clipboard Image" checksum="822ce97d9f8784e0e246ce4cbae3e2f7">
   </resource>
 
   <resource identifier="external:${gimp_data_dir}/patterns/Legacy/3dgreen.pat//3D Green" checksum="00052731f14a5bc614daece969b368bc">
@@ -1177,127 +1177,127 @@
   <resource identifier="external:${gimp_data_dir}/gradients/Yellow_Orange.ggr//Yellow Orange" checksum="c7f332150f1c1d8cb8100add34b0ef55">
   </resource>
 
-  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="5a04d6e5e9068162f831170b2e4cced4">
+  <resource identifier="internal:gimp-palette-color-history//Color History" checksum="ba24a4db5584a185adc96921488ccfd8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="a12bfc54cd02656f8e7c9fb1c663664e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bears.gpl//Bears" checksum="7f80efb07d1b9213ad11c188b58ab2fa">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="2faf55258eb5564a045196a5f7c7a5cb">
+  <resource identifier="external:${gimp_data_dir}/palettes/Bgold.gpl//Bgold" checksum="ce02e738b9dd28ff90d8c7e5cb66229d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="5a71fbc3bed101f87d5163f35ac74606">
+  <resource identifier="external:${gimp_data_dir}/palettes/Blues.gpl//Blues" checksum="ad83d360d902a21f1db22ee48141986d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="83bdd85cc5e3b5df6d7806a64fb17d33">
+  <resource identifier="external:${gimp_data_dir}/palettes/Borders.gpl//Borders" checksum="49dbd81f43421c4fdf8e9ee1b86b2352">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="9909679e24845a17e87ade672fb372ee">
+  <resource identifier="external:${gimp_data_dir}/palettes/Browns_And_Yellows.gpl//Browns And Yellows" checksum="2ea8b2f1c3154b46df7fd3d78b0119b7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="cf9dbea68c47207ea11e0dc2e39efaa1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Caramel.gpl//Caramel" checksum="e9f869581c8f62920e61d1060c008e67">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="84d0dab81e0e3956c21c0c3cb692468e">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cascade.gpl//Cascade" checksum="6ad50b8ea9edc0fba26eae63b26a528e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="30db1e9404e2e2f05573da302038990c">
+  <resource identifier="external:${gimp_data_dir}/palettes/China.gpl//China" checksum="888bc1605c959a2e62303f23390730d2">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="f35af2dda4c462c1dc4353122997500b">
+  <resource identifier="external:${gimp_data_dir}/palettes/Coldfire.gpl//Coldfire" checksum="012d07ab539cdd9037589678960f3b4b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="0dd27c514e1c97a4a31e4755c834f60a">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cool_Colors.gpl//Cool Colors" checksum="b89b263ea9dbef5d783626ce11133667">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="ed5cfc8ca22132087e9294e12bcc57ff">
+  <resource identifier="external:${gimp_data_dir}/palettes/Cranes.gpl//Cranes" checksum="68a4cde9c0800c7f10b4f1b309c6c0f0">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="a8d5667eca97de6e4b424d201db96446">
+  <resource identifier="external:${gimp_data_dir}/palettes/Dark_pastels.gpl//Dark pastels" checksum="e92922e99313f4d1fcc08d28c32e483d">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="6bb6c52d0fae67e229543a08dd57c0d6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Default.gpl//Default" checksum="bb12cc99366dddb9c5f302c676e40128">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="a89c7be7033671b06718b748bf6c6b2d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Ega.gpl//Ega" checksum="857ff2faafdc3dbc02b0ef6c9a1987fa">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="0cd4e2c8213c3591d70e0324f16cef70">
+  <resource identifier="external:${gimp_data_dir}/palettes/Firecode.gpl//Firecode" checksum="6ea60b9a075337eb7242df99f5aed612">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="b3bafff5c96d45514001a43ccb0f81c1">
+  <resource identifier="external:${gimp_data_dir}/palettes/Gold.gpl//Gold" checksum="af19f553e349c2c248de0533d7c45e42">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="ca63d129120f2a6f467d98ccd6568e12">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grayblue.gpl//Grayblue" checksum="6e21fae5bfe6d19c49001dd66cc6ed4e">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="97ed37277750bd721a744a766473d2ab">
+  <resource identifier="external:${gimp_data_dir}/palettes/Grays.gpl//Grays" checksum="3e7fba81e36be844b4cd4a23046ae198">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="fc1c90e449c20e8ee51dd290bf2d6bb0">
+  <resource identifier="external:${gimp_data_dir}/palettes/GrayViolet.gpl//GrayViolet" checksum="823e513415f8e02e7597199c38a1957c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="3af2d7c42965b5364928232b369d2e24">
+  <resource identifier="external:${gimp_data_dir}/palettes/Greens.gpl//Greens" checksum="df19b15d20762f89618fa955aa36c684">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="46815f1cc7458f23604b6c4e8b96a463">
+  <resource identifier="external:${gimp_data_dir}/palettes/Hilite.gpl//Hilite" checksum="7b7bba28908bb01c4b08a600e3b366c8">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="56717db4a765d915348d0c7a977490e6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Khaki.gpl//Khaki" checksum="b86bf724cb4c2eb8fb34d90fe707ee84">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="ed2f8de5e3ab9b703704905555ce7b2d">
+  <resource identifier="external:${gimp_data_dir}/palettes/Lights.gpl//Lights" checksum="b7384514eee0df51418fb469fcc5861a">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="9a1cc7f04bf060779d774766c0955b79">
+  <resource identifier="external:${gimp_data_dir}/palettes/Muted.gpl//Muted" checksum="406345d045a5c19fb71015eadeca9857">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="24a6f588ce25b99f9169ac994869fbec">
+  <resource identifier="external:${gimp_data_dir}/palettes/Named_Colors.gpl//Named Colors" checksum="072f28ac8f6c76a84f6af1aedcee1048">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="3d299684cf99c8daa8b26897cae8b389">
+  <resource identifier="external:${gimp_data_dir}/palettes/News3.gpl//News3" checksum="a319a4b586632ac2453fa0e63c4cf0c7">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="6af291626e5de56e26aca79ddb28d981">
+  <resource identifier="external:${gimp_data_dir}/palettes/Op2.gpl//Op2" checksum="acf9d695bdd75ef7f9a5831d8badd5f1">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="89098acdd3d56c9f0bd7a309749e0cc6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Paintjet.gpl//Paintjet" checksum="23132926d5a9f5e2db2639e503e2d841">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="46a23acbfb34c13f6749edcbd3de1568">
+  <resource identifier="external:${gimp_data_dir}/palettes/Pastels.gpl//Pastels" checksum="a675ba852c4c7dcfd1df803e759f924f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="81e398c7718addac473969c466de09ca">
+  <resource identifier="external:${gimp_data_dir}/palettes/Plasma.gpl//Plasma" checksum="04d99a4e2e3daeac62317b2486afe8f5">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="c089b6a7511daad81d18f110934daa13">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds.gpl//Reds" checksum="3d9c8194832f3597c8a2765bf42e342f">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="7b7d92100f4ff501cbf892a2b8e08748">
+  <resource identifier="external:${gimp_data_dir}/palettes/Reds_And_Purples.gpl//Reds And Purples" checksum="93b5b876322765c6773eb3a9748dbe1b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="123515ba381f5088065e737d5f64480f">
+  <resource identifier="external:${gimp_data_dir}/palettes/Royal.gpl//Royal" checksum="4521932fc77cd455eacd71e4b025e5a0">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="5c64baa3af2f1a943af2ec539a3829ea">
+  <resource identifier="external:${gimp_data_dir}/palettes/Tango.gpl//Tango Icon Theme" checksum="224250da7aec5fa66a47a746526528d3">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="303ac5598a40680aa577c1115011e433">
+  <resource identifier="external:${gimp_data_dir}/palettes/Topographic.gpl//Topographic" checksum="c906212eb2ae355fac9708850ea6536c">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="de3b3acb949cfd88d3a6910c3b22ce98">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone.gpl//Visibone" checksum="767346a53202b6d49220678f298c086b">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="d4f5ae8f52a6011e7af5dcf534008925">
+  <resource identifier="external:${gimp_data_dir}/palettes/Visibone_2.gpl//Visibone 2" checksum="4fafb66446bb0986199fd21ac0c40c52">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="75bc0cae9d87d39765f4bdf9861aee4c">
+  <resource identifier="external:${gimp_data_dir}/palettes/Volcano.gpl//Volcano" checksum="bb49fdcd77929abdd1798e253c292912">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="e3ee5dc79c024cb0812bcac8575a6bba">
+  <resource identifier="external:${gimp_data_dir}/palettes/Warm_Colors.gpl//Warm Colors" checksum="42f79c17ea5ddff31d00e46f9f456224">
   </resource>
 
-  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="65302723c32e4945c98acf1bfec65fd6">
+  <resource identifier="external:${gimp_data_dir}/palettes/Web.gpl//Web" checksum="7759542537d069936f73b3e8cd09aca8">
   </resource>
 
   <resource identifier="internal:gimp-font-standard-alias: Monospace//Monospace" checksum="(null)">
@@ -1414,6 +1414,18 @@
   <resource identifier="external:/usr/share/fonts/Adwaita/AdwaitaSans-Italic.ttf//Adwaita Sans Thin Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/usr/share/fonts/gsfonts/C059-Bold.otf//C059 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/C059-BdIta.otf//C059 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/C059-Italic.otf//C059 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/C059-Roman.otf//C059 Roman" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/usr/share/fonts/cantarell/Cantarell-VF.otf//Cantarell Bold" checksum="(null)">
   </resource>
 
@@ -1427,6 +1439,9 @@
   </resource>
 
   <resource identifier="external:/usr/share/fonts/cantarell/Cantarell-VF.otf//Cantarell Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/D050000L.otf//D050000L Regular" checksum="(null)">
   </resource>
 
   <resource identifier="external:/usr/share/fonts/TTF/fa-brands-400.ttf//Font Awesome 6 Brands Regular" checksum="(null)">
@@ -1475,6 +1490,39 @@
   </resource>
 
   <resource identifier="external:/usr/share/fonts/gnu-free/FreeSerif.otf//FreeSerif Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Bold.ttf//JetBrains Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-BoldItalic.ttf//JetBrains Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-ExtraBold.ttf//JetBrains Mono ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-ExtraBoldItalic.ttf//JetBrains Mono ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-ExtraLight.ttf//JetBrains Mono ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-ExtraLightItalic.ttf//JetBrains Mono ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Italic.ttf//JetBrains Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Light.ttf//JetBrains Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-LightItalic.ttf//JetBrains Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Medium.ttf//JetBrains Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-MediumItalic.ttf//JetBrains Mono Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:/usr/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-Bold.ttf//JetBrainsMono Nerd Font Bold" checksum="(null)">
@@ -1621,6 +1669,39 @@
   <resource identifier="external:/usr/share/fonts/JetBrainsMono/JetBrainsMonoNerdFont-ThinItalic.ttf//JetBrainsMono Nerd Font Thin Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Bold.ttf//JetBrains Mono NL Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-BoldItalic.ttf//JetBrains Mono NL Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-ExtraBold.ttf//JetBrains Mono NL ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-ExtraBoldItalic.ttf//JetBrains Mono NL ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-ExtraLight.ttf//JetBrains Mono NL ExtraLight" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-ExtraLightItalic.ttf//JetBrains Mono NL ExtraLight Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Italic.ttf//JetBrains Mono NL Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Light.ttf//JetBrains Mono NL Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-LightItalic.ttf//JetBrains Mono NL Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Medium.ttf//JetBrains Mono NL Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-MediumItalic.ttf//JetBrains Mono NL Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="external:/usr/share/fonts/JetBrainsMono/JetBrainsMonoNLNerdFont-Bold.ttf//JetBrainsMonoNL Nerd Font Bold" checksum="(null)">
   </resource>
 
@@ -1763,6 +1844,582 @@
   </resource>
 
   <resource identifier="external:/usr/share/fonts/JetBrainsMono/JetBrainsMonoNLNerdFont-ThinItalic.ttf//JetBrainsMonoNL Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Regular.ttf//JetBrains Mono NL Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-SemiBold.ttf//JetBrains Mono NL SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-SemiBoldItalic.ttf//JetBrains Mono NL SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-Thin.ttf//JetBrains Mono NL Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMonoNL-ThinItalic.ttf//JetBrains Mono NL Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Regular.ttf//JetBrains Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-SemiBold.ttf//JetBrains Mono SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-SemiBoldItalic.ttf//JetBrains Mono SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-Thin.ttf//JetBrains Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/JetBrainsMono-ThinItalic.ttf//JetBrains Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationMono-Bold.ttf//Liberation Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationMono-BoldItalic.ttf//Liberation Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationMono-Italic.ttf//Liberation Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationMono-Regular.ttf//Liberation Mono Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSans-Bold.ttf//Liberation Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSans-BoldItalic.ttf//Liberation Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSans-Italic.ttf//Liberation Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSans-Regular.ttf//Liberation Sans Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSerif-Bold.ttf//Liberation Serif Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSerif-BoldItalic.ttf//Liberation Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSerif-Italic.ttf//Liberation Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/liberation/LiberationSerif-Regular.ttf//Liberation Serif Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Black.ttf//Merriweather 120pt Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-BlackItalic.ttf//Merriweather 120pt Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Bold.ttf//Merriweather 120pt Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-BoldItalic.ttf//Merriweather 120pt Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-ExtraBold.ttf//Merriweather 120pt ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-ExtraBoldItalic.ttf//Merriweather 120pt ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Italic.ttf//Merriweather 120pt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Light.ttf//Merriweather 120pt Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-LightItalic.ttf//Merriweather 120pt Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Medium.ttf//Merriweather 120pt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-MediumItalic.ttf//Merriweather 120pt Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-Regular.ttf//Merriweather 120pt Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-SemiBold.ttf//Merriweather 120pt SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt-SemiBoldItalic.ttf//Merriweather 120pt SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Black.ttf//Merriweather 120pt SemiCondensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-BlackItalic.ttf//Merriweather 120pt SemiCondensed Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Bold.ttf//Merriweather 120pt SemiCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-BoldItalic.ttf//Merriweather 120pt SemiCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-ExtraBold.ttf//Merriweather 120pt SemiCondensed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-ExtraBoldItalic.ttf//Merriweather 120pt SemiCondensed ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Italic.ttf//Merriweather 120pt SemiCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Light.ttf//Merriweather 120pt SemiCondensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-LightItalic.ttf//Merriweather 120pt SemiCondensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Medium.ttf//Merriweather 120pt SemiCondensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-MediumItalic.ttf//Merriweather 120pt SemiCondensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-Regular.ttf//Merriweather 120pt SemiCondensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-SemiBold.ttf//Merriweather 120pt SemiCondensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_120pt_SemiCondensed-SemiBoldItalic.ttf//Merriweather 120pt SemiCondensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Black.ttf//Merriweather 24pt Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-BlackItalic.ttf//Merriweather 24pt Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Bold.ttf//Merriweather 24pt Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-BoldItalic.ttf//Merriweather 24pt Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-ExtraBold.ttf//Merriweather 24pt ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-ExtraBoldItalic.ttf//Merriweather 24pt ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Italic.ttf//Merriweather 24pt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Light.ttf//Merriweather 24pt Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-LightItalic.ttf//Merriweather 24pt Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Medium.ttf//Merriweather 24pt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-MediumItalic.ttf//Merriweather 24pt Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-Regular.ttf//Merriweather 24pt Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-SemiBold.ttf//Merriweather 24pt SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt-SemiBoldItalic.ttf//Merriweather 24pt SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Black.ttf//Merriweather 24pt SemiCondensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-BlackItalic.ttf//Merriweather 24pt SemiCondensed Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Bold.ttf//Merriweather 24pt SemiCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-BoldItalic.ttf//Merriweather 24pt SemiCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-ExtraBold.ttf//Merriweather 24pt SemiCondensed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-ExtraBoldItalic.ttf//Merriweather 24pt SemiCondensed ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Italic.ttf//Merriweather 24pt SemiCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Light.ttf//Merriweather 24pt SemiCondensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-LightItalic.ttf//Merriweather 24pt SemiCondensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Medium.ttf//Merriweather 24pt SemiCondensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-MediumItalic.ttf//Merriweather 24pt SemiCondensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-Regular.ttf//Merriweather 24pt SemiCondensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-SemiBold.ttf//Merriweather 24pt SemiCondensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_24pt_SemiCondensed-SemiBoldItalic.ttf//Merriweather 24pt SemiCondensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Black.ttf//Merriweather 36pt Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-BlackItalic.ttf//Merriweather 36pt Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Bold.ttf//Merriweather 36pt Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-BoldItalic.ttf//Merriweather 36pt Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-ExtraBold.ttf//Merriweather 36pt ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-ExtraBoldItalic.ttf//Merriweather 36pt ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Italic.ttf//Merriweather 36pt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Light.ttf//Merriweather 36pt Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-LightItalic.ttf//Merriweather 36pt Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Medium.ttf//Merriweather 36pt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-MediumItalic.ttf//Merriweather 36pt Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-Regular.ttf//Merriweather 36pt Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-SemiBold.ttf//Merriweather 36pt SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt-SemiBoldItalic.ttf//Merriweather 36pt SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Black.ttf//Merriweather 36pt SemiCondensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-BlackItalic.ttf//Merriweather 36pt SemiCondensed Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Bold.ttf//Merriweather 36pt SemiCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-BoldItalic.ttf//Merriweather 36pt SemiCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-ExtraBold.ttf//Merriweather 36pt SemiCondensed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-ExtraBoldItalic.ttf//Merriweather 36pt SemiCondensed ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Italic.ttf//Merriweather 36pt SemiCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Light.ttf//Merriweather 36pt SemiCondensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-LightItalic.ttf//Merriweather 36pt SemiCondensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Medium.ttf//Merriweather 36pt SemiCondensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-MediumItalic.ttf//Merriweather 36pt SemiCondensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-Regular.ttf//Merriweather 36pt SemiCondensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-SemiBold.ttf//Merriweather 36pt SemiCondensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_36pt_SemiCondensed-SemiBoldItalic.ttf//Merriweather 36pt SemiCondensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Black.ttf//Merriweather 48pt Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-BlackItalic.ttf//Merriweather 48pt Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Bold.ttf//Merriweather 48pt Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-BoldItalic.ttf//Merriweather 48pt Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-ExtraBold.ttf//Merriweather 48pt ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-ExtraBoldItalic.ttf//Merriweather 48pt ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Italic.ttf//Merriweather 48pt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Light.ttf//Merriweather 48pt Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-LightItalic.ttf//Merriweather 48pt Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Medium.ttf//Merriweather 48pt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-MediumItalic.ttf//Merriweather 48pt Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-Regular.ttf//Merriweather 48pt Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-SemiBold.ttf//Merriweather 48pt SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt-SemiBoldItalic.ttf//Merriweather 48pt SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Black.ttf//Merriweather 48pt SemiCondensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-BlackItalic.ttf//Merriweather 48pt SemiCondensed Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Bold.ttf//Merriweather 48pt SemiCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-BoldItalic.ttf//Merriweather 48pt SemiCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-ExtraBold.ttf//Merriweather 48pt SemiCondensed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-ExtraBoldItalic.ttf//Merriweather 48pt SemiCondensed ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Italic.ttf//Merriweather 48pt SemiCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Light.ttf//Merriweather 48pt SemiCondensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-LightItalic.ttf//Merriweather 48pt SemiCondensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Medium.ttf//Merriweather 48pt SemiCondensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-MediumItalic.ttf//Merriweather 48pt SemiCondensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-Regular.ttf//Merriweather 48pt SemiCondensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-SemiBold.ttf//Merriweather 48pt SemiCondensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_48pt_SemiCondensed-SemiBoldItalic.ttf//Merriweather 48pt SemiCondensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Black.ttf//Merriweather 96pt Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-BlackItalic.ttf//Merriweather 96pt Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Bold.ttf//Merriweather 96pt Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-BoldItalic.ttf//Merriweather 96pt Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-ExtraBold.ttf//Merriweather 96pt ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-ExtraBoldItalic.ttf//Merriweather 96pt ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Italic.ttf//Merriweather 96pt Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Light.ttf//Merriweather 96pt Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-LightItalic.ttf//Merriweather 96pt Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Medium.ttf//Merriweather 96pt Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-MediumItalic.ttf//Merriweather 96pt Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-Regular.ttf//Merriweather 96pt Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-SemiBold.ttf//Merriweather 96pt SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt-SemiBoldItalic.ttf//Merriweather 96pt SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Black.ttf//Merriweather 96pt SemiCondensed Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-BlackItalic.ttf//Merriweather 96pt SemiCondensed Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Bold.ttf//Merriweather 96pt SemiCondensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-BoldItalic.ttf//Merriweather 96pt SemiCondensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-ExtraBold.ttf//Merriweather 96pt SemiCondensed ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-ExtraBoldItalic.ttf//Merriweather 96pt SemiCondensed ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Italic.ttf//Merriweather 96pt SemiCondensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Light.ttf//Merriweather 96pt SemiCondensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-LightItalic.ttf//Merriweather 96pt SemiCondensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Medium.ttf//Merriweather 96pt SemiCondensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-MediumItalic.ttf//Merriweather 96pt SemiCondensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-Regular.ttf//Merriweather 96pt SemiCondensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-SemiBold.ttf//Merriweather 96pt SemiCondensed SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/static/Merriweather_96pt_SemiCondensed-SemiBoldItalic.ttf//Merriweather 96pt SemiCondensed SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather ExtraBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather ExtraBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-VariableFont_opsz,wdth,wght.ttf//Merriweather SemiBold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/Merriweather/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf//Merriweather SemiBold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusMonoPS-Bold.otf//Nimbus Mono PS Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusMonoPS-BoldItalic.otf//Nimbus Mono PS Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusMonoPS-Italic.otf//Nimbus Mono PS Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusMonoPS-Regular.otf//Nimbus Mono PS Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusRoman-Bold.otf//Nimbus Roman Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusRoman-BoldItalic.otf//Nimbus Roman Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusRoman-Italic.otf//Nimbus Roman Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusRoman-Regular.otf//Nimbus Roman Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSans-Bold.otf//Nimbus Sans Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSans-BoldItalic.otf//Nimbus Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSans-Italic.otf//Nimbus Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSansNarrow-Bold.otf//Nimbus Sans Narrow Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSansNarrow-BoldOblique.otf//Nimbus Sans Narrow Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSansNarrow-Oblique.otf//Nimbus Sans Narrow Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSansNarrow-Regular.otf//Nimbus Sans Narrow Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/NimbusSans-Regular.otf//Nimbus Sans Regular" checksum="(null)">
   </resource>
 
   <resource identifier="external:/usr/share/fonts/noto/NotoColorEmoji.ttf//Noto Color Emoji Regular" checksum="(null)">
@@ -3842,6 +4499,108 @@
   </resource>
 
   <resource identifier="external:/usr/share/fonts/noto/NotoZnamennyMusicalNotation-Regular.ttf//Noto Znamenny Musical Notation Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/P052-Bold.otf//P052 Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/P052-BoldItalic.otf//P052 Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/P052-Italic.otf//P052 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/P052-Roman.otf//P052 Roman" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Black.ttf//Roboto Black" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-BlackItalic.ttf//Roboto Black Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Bold.ttf//Roboto Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-BoldItalic.ttf//Roboto Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-Bold.ttf//Roboto Condensed Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-BoldItalic.ttf//Roboto Condensed Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-Italic.ttf//Roboto Condensed Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-Light.ttf//Roboto Condensed Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-LightItalic.ttf//Roboto Condensed Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-Medium.ttf//Roboto Condensed Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-MediumItalic.ttf//Roboto Condensed Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/RobotoCondensed-Regular.ttf//Roboto Condensed Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Italic.ttf//Roboto Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Light.ttf//Roboto Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-LightItalic.ttf//Roboto Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Medium.ttf//Roboto Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-MediumItalic.ttf//Roboto Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Regular.ttf//Roboto Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-Thin.ttf//Roboto Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/TTF/Roboto-ThinItalic.ttf//Roboto Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/StandardSymbolsPS.otf//Standard Symbols PS Regular" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWBookman-Demi.otf//URW Bookman Demi" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWBookman-DemiItalic.otf//URW Bookman Demi Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWBookman-Light.otf//URW Bookman Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWBookman-LightItalic.otf//URW Bookman Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWGothic-Book.otf//URW Gothic Book" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWGothic-BookOblique.otf//URW Gothic Book Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWGothic-Demi.otf//URW Gothic Demi" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/URWGothic-DemiOblique.otf//URW Gothic Demi Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="external:/usr/share/fonts/gsfonts/Z003-MediumItalic.otf//Z003 Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="external:${gimp_data_dir}/tool-presets/Crop/16_10.gtp//16×10" checksum="(null)">

@@ -4059,3 +4059,1379 @@
 6/16/2025, 4:31:42 AM CDT [Modules] Host is up to date.
 6/16/2025, 4:31:42 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
 6/16/2025, 4:31:42 AM CDT [Modules] No module updates available.
+6/16/2025, 5:04:42 PM CDT [Modules] Checking for host updates.
+6/16/2025, 5:04:42 PM CDT [Modules] Host update is available. Manual update required!
+6/17/2025, 9:00:04 PM CDT [Modules] Modules initializing
+6/17/2025, 9:00:04 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:00:04 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:00:04 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:00:04 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.97/modules
+6/17/2025, 9:00:04 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.97/modules/installed.json
+6/17/2025, 9:00:04 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.97/modules/pending
+6/17/2025, 9:00:05 PM CDT [Modules] No updates to install
+6/17/2025, 9:00:05 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:00:05 PM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/17/2025, 9:00:16 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:00:16 PM CDT [Modules] Host update is available. Manual update required!
+6/17/2025, 9:00:50 PM CDT [Modules] Modules initializing
+6/17/2025, 9:00:50 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:00:50 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:00:50 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:00:50 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.97/modules
+6/17/2025, 9:00:50 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.97/modules/installed.json
+6/17/2025, 9:00:50 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.97/modules/pending
+6/17/2025, 9:00:50 PM CDT [Modules] No updates to install
+6/17/2025, 9:00:50 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:00:50 PM CDT [Modules] Host update is available. Manual update required!
+6/17/2025, 9:02:19 PM CDT [Modules] Modules initializing
+6/17/2025, 9:02:19 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:02:19 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:02:19 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:02:19 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.97/modules
+6/17/2025, 9:02:19 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.97/modules/installed.json
+6/17/2025, 9:02:19 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.97/modules/pending
+6/17/2025, 9:02:19 PM CDT [Modules] No updates to install
+6/17/2025, 9:02:19 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:02:19 PM CDT [Modules] Host update is available. Manual update required!
+6/17/2025, 9:19:02 PM CDT [Modules] Modules initializing
+6/17/2025, 9:19:02 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:19:02 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:19:02 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:19:02 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/17/2025, 9:19:02 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/17/2025, 9:19:02 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/17/2025, 9:19:02 PM CDT [Modules] Bootstrapping...
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Installing discord_zstd@0 from /opt/discord/resources/bootstrap/discord_zstd.zip
+6/17/2025, 9:19:02 PM CDT [Modules] Failed installing discord_zstd@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_zstd.zip'
+6/17/2025, 9:19:02 PM CDT [Modules] Finished module installations. [success: 0] [failure: 6]
+6/17/2025, 9:19:02 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:19:02 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:19:02 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_erlpack@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_utils@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_voice@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Module update available: discord_zstd@1 [installed: 0]
+6/17/2025, 9:19:02 PM CDT [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+6/17/2025, 9:19:02 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 1%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 2%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 3%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 4%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 5%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 6%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 8%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 9%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 10%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 11%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 12%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 14%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 15%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 16%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 17%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 18%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 20%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 22%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 23%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 24%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 27%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 28%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 29%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 30%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 31%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 32%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 33%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 34%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 36%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 38%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 39%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 40%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 41%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 43%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 45%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 47%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 48%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 50%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 53%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 54%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 55%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 56%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 57%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 59%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 60%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 61%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 62%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 63%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 64%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 65%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 68%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 69%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 70%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 71%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 74%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 79%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 80%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 84%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 85%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 86%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 88%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 89%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 90%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 92%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 93%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 96%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 98%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_desktop_core@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip: 100%
+6/17/2025, 9:19:03 PM CDT [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 1%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 2%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 3%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 5%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 7%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 8%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 10%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 11%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 12%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 13%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 14%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 18%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 20%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 22%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 23%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 25%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 26%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 28%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 29%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 30%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 31%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 32%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 33%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 34%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 36%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 37%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 38%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 39%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 41%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 42%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 44%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 45%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 47%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 48%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 49%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 50%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 51%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 53%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 54%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 56%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 58%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 60%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 62%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 63%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 65%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 67%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 69%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 70%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 71%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 72%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 74%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 75%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 76%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 78%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 79%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 81%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 83%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 85%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 86%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 88%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 89%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 91%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 93%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 97%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 98%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_erlpack@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip: 100%
+6/17/2025, 9:19:03 PM CDT [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 1%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 2%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 3%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 4%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 5%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 6%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 7%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 8%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 9%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 10%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 11%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 12%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 13%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 14%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 15%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 16%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 17%
+6/17/2025, 9:19:03 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 18%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 19%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 20%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 21%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 22%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 23%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 24%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 25%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 26%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 27%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 28%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 29%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 30%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 31%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 32%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 33%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 34%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 35%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 36%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 37%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 38%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 39%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 40%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 41%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 42%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 43%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 44%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 45%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 46%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 47%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 48%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 49%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 50%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 51%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 52%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 53%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 54%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 55%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 56%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 57%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 58%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 59%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 60%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 61%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 62%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 63%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 64%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 65%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 66%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 67%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 68%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 69%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 70%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 71%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 72%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 73%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 74%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 79%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 80%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 81%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 82%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 86%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 88%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 89%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 93%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 94%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 95%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 96%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 97%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 98%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 99%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_spellcheck@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip: 100%
+6/17/2025, 9:19:04 PM CDT [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 1%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 2%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 3%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 4%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 5%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 7%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 9%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 21%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 23%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 24%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 25%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 26%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 27%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 32%
+6/17/2025, 9:19:04 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 37%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 39%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 43%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 45%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 46%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 47%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 49%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 50%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 51%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 54%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 55%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 56%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 57%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 58%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 59%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 60%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 61%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 62%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 63%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 64%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 65%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 66%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 67%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 68%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 69%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 72%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 74%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 76%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 78%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 80%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 82%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 83%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 95%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip: 100%
+6/17/2025, 9:19:05 PM CDT [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 1%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 2%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 3%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 4%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 5%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 6%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 7%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 8%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 9%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 10%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 11%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 12%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 13%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 14%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 15%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 16%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 17%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 18%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 19%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 20%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 21%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 22%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 23%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 24%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 25%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 26%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 27%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 28%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 29%
+6/17/2025, 9:19:05 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 30%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 31%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 33%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 34%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 35%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 36%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 37%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 38%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 39%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 40%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 41%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 42%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 43%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 44%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 45%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 46%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 47%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 48%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 49%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 51%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 52%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 53%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 54%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 55%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 56%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 57%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 58%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 59%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 60%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 61%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 62%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 63%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 65%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 66%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 67%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 68%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 69%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 70%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 71%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 72%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 73%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 74%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 75%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 76%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 77%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 78%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 79%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 80%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 81%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 82%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 83%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 84%
+6/17/2025, 9:19:06 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 85%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 86%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 87%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 88%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 89%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 90%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 91%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 92%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 93%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 94%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 95%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 96%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 97%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 98%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 99%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_voice@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip: 100%
+6/17/2025, 9:19:07 PM CDT [Modules] Fetching discord_zstd@1 from https://discord.com/api/modules/stable/discord_zstd/1
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 9%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 27%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 33%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 35%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 70%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 87%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 94%
+6/17/2025, 9:19:07 PM CDT [Modules] Streaming discord_zstd@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip: 100%
+6/17/2025, 9:19:07 PM CDT [Modules] Finished module downloads. [success: 6] [failure: 0]
+6/17/2025, 9:19:07 PM CDT [Modules] Installing updates...
+6/17/2025, 9:19:07 PM CDT [Modules] Installing discord_desktop_core@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_desktop_core-1.zip
+6/17/2025, 9:19:07 PM CDT [Modules] Installing discord_erlpack@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_erlpack-1.zip
+6/17/2025, 9:19:07 PM CDT [Modules] Installing discord_spellcheck@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_spellcheck-1.zip
+6/17/2025, 9:19:08 PM CDT [Modules] Installing discord_utils@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_utils-1.zip
+6/17/2025, 9:19:08 PM CDT [Modules] Installing discord_voice@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_voice-1.zip
+6/17/2025, 9:19:09 PM CDT [Modules] Installing discord_zstd@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_zstd-1.zip
+6/17/2025, 9:19:09 PM CDT [Modules] Finished module installations. [success: 6] [failure: 0]
+6/17/2025, 9:19:09 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:19:09 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:19:09 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:19:09 PM CDT [Modules] No module updates available.
+6/17/2025, 9:19:10 PM CDT [Modules] Starting to install discord_krisp...
+6/17/2025, 9:19:10 PM CDT [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip
+6/17/2025, 9:19:10 PM CDT [Modules] Starting to install discord_game_utils...
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 1%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 2%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 3%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 4%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 5%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 6%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 7%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 8%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 9%
+6/17/2025, 9:19:10 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 10%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 11%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 12%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 13%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 14%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 15%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 16%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 17%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 18%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 19%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 20%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 21%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 22%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 23%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 24%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 25%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 26%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 27%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 28%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 30%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 31%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 32%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 33%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 34%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 35%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 36%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 37%
+6/17/2025, 9:19:11 PM CDT [Modules] Starting to install discord_rpc...
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 38%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 39%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 40%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 41%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 42%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 43%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 44%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 45%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 47%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 48%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 49%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 50%
+6/17/2025, 9:19:11 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 51%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 52%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 53%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 54%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 55%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 56%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 57%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 58%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 59%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 60%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 61%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 62%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 63%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 64%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 65%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 66%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 67%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 68%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 69%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 70%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 71%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 72%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 73%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 74%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 75%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 76%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 77%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 78%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 79%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 80%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 82%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 83%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 84%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 85%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 86%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 87%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 88%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 89%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 90%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 92%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 93%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 95%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 96%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 97%
+6/17/2025, 9:19:12 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 98%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 99%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_krisp@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip: 100%
+6/17/2025, 9:19:13 PM CDT [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip
+6/17/2025, 9:19:13 PM CDT [Modules] Installing discord_krisp@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_krisp-1.zip
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 1%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 2%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 3%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 5%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 6%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 7%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 9%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 10%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 11%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 12%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 13%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 14%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 15%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 17%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 19%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 21%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 22%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 26%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 33%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 36%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 41%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 44%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 48%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 51%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 56%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 58%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 63%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 65%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 70%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 72%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 73%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 85%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 87%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 88%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 89%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 90%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 91%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 93%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 96%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 97%
+6/17/2025, 9:19:13 PM CDT [Modules] Finished module installations. [success: 1] [failure: 0]
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 98%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 99%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_game_utils@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip: 100%
+6/17/2025, 9:19:13 PM CDT [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_rpc@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_rpc-1.zip
+6/17/2025, 9:19:13 PM CDT [Modules] Installing discord_game_utils@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_game_utils-1.zip
+6/17/2025, 9:19:13 PM CDT [Modules] Finished module installations. [success: 1] [failure: 0]
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_rpc@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_rpc-1.zip: 41%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_rpc@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_rpc-1.zip: 85%
+6/17/2025, 9:19:13 PM CDT [Modules] Streaming discord_rpc@1 to /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_rpc-1.zip: 100%
+6/17/2025, 9:19:13 PM CDT [Modules] Finished module downloads. [success: 3] [failure: 0]
+6/17/2025, 9:19:13 PM CDT [Modules] Installing discord_rpc@1 from /home/bobywoby/.config/discord/0.0.98/modules/pending/discord_rpc-1.zip
+6/17/2025, 9:19:13 PM CDT [Modules] Finished module installations. [success: 1] [failure: 0]
+6/17/2025, 9:19:14 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:19:14 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:19:14 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:19:14 PM CDT [Modules] No module updates available.
+6/17/2025, 9:19:38 PM CDT [Modules] Modules initializing
+6/17/2025, 9:19:38 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:19:38 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:19:38 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:19:38 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/17/2025, 9:19:38 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/17/2025, 9:19:38 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/17/2025, 9:19:38 PM CDT [Modules] No updates to install
+6/17/2025, 9:19:38 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:19:38 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:19:38 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:19:38 PM CDT [Modules] No module updates available.
+6/17/2025, 9:19:43 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:19:43 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:19:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:19:43 PM CDT [Modules] No module updates available.
+6/17/2025, 9:26:33 PM CDT [Modules] Modules initializing
+6/17/2025, 9:26:33 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:26:33 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:26:33 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:26:33 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/17/2025, 9:26:33 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/17/2025, 9:26:33 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/17/2025, 9:26:33 PM CDT [Modules] No updates to install
+6/17/2025, 9:26:33 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:26:33 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:26:33 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:26:33 PM CDT [Modules] No module updates available.
+6/17/2025, 9:26:38 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:26:38 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:26:38 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:26:38 PM CDT [Modules] No module updates available.
+6/17/2025, 9:29:09 PM CDT [Modules] Modules initializing
+6/17/2025, 9:29:09 PM CDT [Modules] Distribution: remote
+6/17/2025, 9:29:09 PM CDT [Modules] Host updates: enabled
+6/17/2025, 9:29:09 PM CDT [Modules] Module updates: enabled
+6/17/2025, 9:29:09 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/17/2025, 9:29:09 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/17/2025, 9:29:09 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/17/2025, 9:29:10 PM CDT [Modules] No updates to install
+6/17/2025, 9:29:10 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:29:10 PM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/17/2025, 9:29:20 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:29:20 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:29:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:29:20 PM CDT [Modules] No module updates available.
+6/17/2025, 9:29:25 PM CDT [Modules] Checking for host updates.
+6/17/2025, 9:29:25 PM CDT [Modules] Host is up to date.
+6/17/2025, 9:29:25 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 9:29:25 PM CDT [Modules] No module updates available.
+6/17/2025, 10:29:25 PM CDT [Modules] Checking for host updates.
+6/17/2025, 10:29:26 PM CDT [Modules] Host is up to date.
+6/17/2025, 10:29:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 10:29:26 PM CDT [Modules] No module updates available.
+6/17/2025, 11:29:25 PM CDT [Modules] Checking for host updates.
+6/17/2025, 11:29:25 PM CDT [Modules] Host is up to date.
+6/17/2025, 11:29:25 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/17/2025, 11:29:25 PM CDT [Modules] No module updates available.
+6/18/2025, 12:29:25 AM CDT [Modules] Checking for host updates.
+6/18/2025, 12:29:25 AM CDT [Modules] Host is up to date.
+6/18/2025, 12:29:25 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 12:29:25 AM CDT [Modules] No module updates available.
+6/18/2025, 1:29:25 AM CDT [Modules] Checking for host updates.
+6/18/2025, 1:29:25 AM CDT [Modules] Host is up to date.
+6/18/2025, 1:29:25 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 1:29:25 AM CDT [Modules] No module updates available.
+6/18/2025, 2:29:25 AM CDT [Modules] Checking for host updates.
+6/18/2025, 2:29:25 AM CDT [Modules] Host is up to date.
+6/18/2025, 2:29:25 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 2:29:26 AM CDT [Modules] No module updates available.
+6/18/2025, 2:48:03 AM CDT [Modules] Checking for host updates.
+6/18/2025, 2:48:03 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 2:56:35 AM CDT [Modules] Checking for host updates.
+6/18/2025, 2:56:35 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:04:09 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:04:09 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:07:40 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:07:41 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:09:41 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:09:42 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:17:48 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:17:48 AM CDT [Modules] Host is up to date.
+6/18/2025, 3:17:48 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 3:17:48 AM CDT [Modules] No module updates available.
+6/18/2025, 3:28:51 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:28:52 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:29:53 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:29:53 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:34:29 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:34:32 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:39:37 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:39:37 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:47:13 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:47:13 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:48:11 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:48:11 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:52:43 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:52:44 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:56:45 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:56:45 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 3:58:46 AM CDT [Modules] Checking for host updates.
+6/18/2025, 3:58:46 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:01:18 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:01:18 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:04:19 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:04:19 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:06:50 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:06:50 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:07:53 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:07:54 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:09:52 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:09:52 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:17:56 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:17:56 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:28:01 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:28:01 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:29:01 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:29:02 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:29:32 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:29:32 AM CDT [Modules] Host is up to date.
+6/18/2025, 4:29:32 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:29:32 AM CDT [Modules] No module updates available.
+6/18/2025, 4:33:04 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:33:04 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:34:34 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:34:34 AM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/18/2025, 4:37:43 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:37:43 AM CDT [Modules] Host is up to date.
+6/18/2025, 4:37:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:37:43 AM CDT [Modules] No module updates available.
+6/18/2025, 4:39:37 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:39:37 AM CDT [Modules] Host is up to date.
+6/18/2025, 4:39:37 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:39:37 AM CDT [Modules] No module updates available.
+6/18/2025, 4:42:11 AM CDT [Modules] Modules initializing
+6/18/2025, 4:42:11 AM CDT [Modules] Distribution: remote
+6/18/2025, 4:42:11 AM CDT [Modules] Host updates: enabled
+6/18/2025, 4:42:11 AM CDT [Modules] Module updates: enabled
+6/18/2025, 4:42:11 AM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/18/2025, 4:42:11 AM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/18/2025, 4:42:11 AM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/18/2025, 4:42:11 AM CDT [Modules] No updates to install
+6/18/2025, 4:42:11 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:42:11 AM CDT [Modules] Host is up to date.
+6/18/2025, 4:42:11 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:42:11 AM CDT [Modules] No module updates available.
+6/18/2025, 4:42:16 AM CDT [Modules] Checking for host updates.
+6/18/2025, 4:42:16 AM CDT [Modules] Host is up to date.
+6/18/2025, 4:42:16 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:42:16 AM CDT [Modules] No module updates available.
+6/18/2025, 2:50:22 PM CDT [Modules] Modules initializing
+6/18/2025, 2:50:22 PM CDT [Modules] Distribution: remote
+6/18/2025, 2:50:22 PM CDT [Modules] Host updates: enabled
+6/18/2025, 2:50:22 PM CDT [Modules] Module updates: enabled
+6/18/2025, 2:50:22 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/18/2025, 2:50:22 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/18/2025, 2:50:22 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/18/2025, 2:50:22 PM CDT [Modules] No updates to install
+6/18/2025, 2:50:22 PM CDT [Modules] Checking for host updates.
+6/18/2025, 2:50:23 PM CDT [Modules] Host is up to date.
+6/18/2025, 2:50:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 2:50:23 PM CDT [Modules] No module updates available.
+6/18/2025, 2:50:29 PM CDT [Modules] Checking for host updates.
+6/18/2025, 2:50:41 PM CDT [Modules] Host is up to date.
+6/18/2025, 2:50:41 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 2:50:41 PM CDT [Modules] No module updates available.
+6/18/2025, 4:29:57 PM CDT [Modules] Checking for host updates.
+6/18/2025, 4:29:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 4:29:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:29:58 PM CDT [Modules] No module updates available.
+6/18/2025, 4:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 4:41:10 PM CDT [Modules] Host is up to date.
+6/18/2025, 4:41:10 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 4:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 5:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 5:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 5:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 5:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 5:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 5:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 5:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 5:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 5:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 5:41:10 PM CDT [Modules] Host is up to date.
+6/18/2025, 5:41:10 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 5:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 6:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 6:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 6:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 6:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 6:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 6:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 6:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 6:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 6:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 6:41:09 PM CDT [Modules] Host is up to date.
+6/18/2025, 6:41:09 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 6:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 7:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 7:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 7:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 7:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 7:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 7:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 7:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 7:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 7:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 7:41:10 PM CDT [Modules] Host is up to date.
+6/18/2025, 7:41:10 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 7:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 8:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 8:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 8:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 8:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 8:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 8:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 8:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 8:38:59 PM CDT [Modules] No module updates available.
+6/18/2025, 8:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 8:41:10 PM CDT [Modules] Host is up to date.
+6/18/2025, 8:41:10 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 8:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 9:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 9:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 9:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 9:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 9:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 9:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 9:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 9:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 9:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 9:41:09 PM CDT [Modules] Host is up to date.
+6/18/2025, 9:41:09 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 9:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 10:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 10:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 10:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 10:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 10:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 10:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 10:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 10:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 10:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 10:41:09 PM CDT [Modules] Host is up to date.
+6/18/2025, 10:41:09 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 10:41:10 PM CDT [Modules] No module updates available.
+6/18/2025, 11:32:50 PM CDT [Modules] Checking for host updates.
+6/18/2025, 11:32:50 PM CDT [Modules] Host is up to date.
+6/18/2025, 11:32:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 11:32:50 PM CDT [Modules] No module updates available.
+6/18/2025, 11:38:58 PM CDT [Modules] Checking for host updates.
+6/18/2025, 11:38:58 PM CDT [Modules] Host is up to date.
+6/18/2025, 11:38:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 11:38:58 PM CDT [Modules] No module updates available.
+6/18/2025, 11:41:09 PM CDT [Modules] Checking for host updates.
+6/18/2025, 11:41:10 PM CDT [Modules] Host is up to date.
+6/18/2025, 11:41:10 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/18/2025, 11:41:10 PM CDT [Modules] No module updates available.
+6/19/2025, 12:32:50 AM CDT [Modules] Checking for host updates.
+6/19/2025, 12:32:50 AM CDT [Modules] Host is up to date.
+6/19/2025, 12:32:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 12:32:50 AM CDT [Modules] No module updates available.
+6/19/2025, 12:38:58 AM CDT [Modules] Checking for host updates.
+6/19/2025, 12:38:58 AM CDT [Modules] Host is up to date.
+6/19/2025, 12:38:58 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 12:38:58 AM CDT [Modules] No module updates available.
+6/19/2025, 12:41:09 AM CDT [Modules] Checking for host updates.
+6/19/2025, 12:41:10 AM CDT [Modules] Host is up to date.
+6/19/2025, 12:41:10 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 12:41:10 AM CDT [Modules] No module updates available.
+6/19/2025, 1:32:50 AM CDT [Modules] Checking for host updates.
+6/19/2025, 1:32:50 AM CDT [Modules] Host is up to date.
+6/19/2025, 1:32:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 1:32:50 AM CDT [Modules] No module updates available.
+6/19/2025, 1:38:58 AM CDT [Modules] Checking for host updates.
+6/19/2025, 1:38:59 AM CDT [Modules] Host is up to date.
+6/19/2025, 1:38:59 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 1:38:59 AM CDT [Modules] No module updates available.
+6/19/2025, 1:41:09 AM CDT [Modules] Checking for host updates.
+6/19/2025, 1:41:09 AM CDT [Modules] Host is up to date.
+6/19/2025, 1:41:09 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 1:41:10 AM CDT [Modules] No module updates available.
+6/19/2025, 2:32:50 AM CDT [Modules] Checking for host updates.
+6/19/2025, 2:32:50 AM CDT [Modules] Host is up to date.
+6/19/2025, 2:32:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 2:32:50 AM CDT [Modules] No module updates available.
+6/19/2025, 2:38:58 AM CDT [Modules] Checking for host updates.
+6/19/2025, 2:38:58 AM CDT [Modules] Host is up to date.
+6/19/2025, 2:38:58 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 2:38:58 AM CDT [Modules] No module updates available.
+6/19/2025, 2:41:09 AM CDT [Modules] Checking for host updates.
+6/19/2025, 2:41:10 AM CDT [Modules] Host is up to date.
+6/19/2025, 2:41:10 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 2:41:10 AM CDT [Modules] No module updates available.
+6/19/2025, 4:28:53 PM CDT [Modules] Checking for host updates.
+6/19/2025, 4:28:53 PM CDT [Modules] Host is up to date.
+6/19/2025, 4:28:53 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 4:28:53 PM CDT [Modules] No module updates available.
+6/19/2025, 4:34:46 PM CDT [Modules] Checking for host updates.
+6/19/2025, 4:34:46 PM CDT [Modules] Host is up to date.
+6/19/2025, 4:34:46 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 4:34:46 PM CDT [Modules] No module updates available.
+6/19/2025, 7:18:37 PM CDT [Modules] Checking for host updates.
+6/19/2025, 7:18:37 PM CDT [Modules] Host is up to date.
+6/19/2025, 7:18:37 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 7:18:37 PM CDT [Modules] No module updates available.
+6/19/2025, 7:26:54 PM CDT [Modules] Checking for host updates.
+6/19/2025, 7:26:54 PM CDT [Modules] Host is up to date.
+6/19/2025, 7:26:54 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 7:26:55 PM CDT [Modules] No module updates available.
+6/19/2025, 10:18:50 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:18:58 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:18:58 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:18:58 PM CDT [Modules] No module updates available.
+6/19/2025, 10:19:34 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:19:34 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:19:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:19:34 PM CDT [Modules] No module updates available.
+6/19/2025, 10:25:42 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:25:43 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:25:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:25:43 PM CDT [Modules] No module updates available.
+6/19/2025, 10:27:54 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:27:54 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:27:54 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:27:54 PM CDT [Modules] No module updates available.
+6/19/2025, 10:47:01 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:47:01 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:47:01 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:47:01 PM CDT [Modules] No module updates available.
+6/19/2025, 10:47:36 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:47:37 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:47:37 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:47:37 PM CDT [Modules] No module updates available.
+6/19/2025, 10:54:43 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:54:43 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:54:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:54:43 PM CDT [Modules] No module updates available.
+6/19/2025, 10:55:45 PM CDT [Modules] Checking for host updates.
+6/19/2025, 10:55:45 PM CDT [Modules] Host is up to date.
+6/19/2025, 10:55:45 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 10:55:45 PM CDT [Modules] No module updates available.
+6/19/2025, 11:18:50 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:18:50 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:18:50 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:18:50 PM CDT [Modules] No module updates available.
+6/19/2025, 11:19:34 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:19:34 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:19:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:19:34 PM CDT [Modules] No module updates available.
+6/19/2025, 11:25:42 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:25:43 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:25:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:25:43 PM CDT [Modules] No module updates available.
+6/19/2025, 11:27:54 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:27:54 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:27:54 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:27:54 PM CDT [Modules] No module updates available.
+6/19/2025, 11:47:01 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:47:01 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:47:01 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:47:01 PM CDT [Modules] No module updates available.
+6/19/2025, 11:47:36 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:47:37 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:47:37 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:47:37 PM CDT [Modules] No module updates available.
+6/19/2025, 11:54:43 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:54:43 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:54:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:54:43 PM CDT [Modules] No module updates available.
+6/19/2025, 11:55:45 PM CDT [Modules] Checking for host updates.
+6/19/2025, 11:55:45 PM CDT [Modules] Host is up to date.
+6/19/2025, 11:55:45 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/19/2025, 11:55:45 PM CDT [Modules] No module updates available.
+6/20/2025, 12:18:50 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:18:50 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:18:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:18:50 AM CDT [Modules] No module updates available.
+6/20/2025, 12:19:34 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:19:34 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:19:34 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:19:34 AM CDT [Modules] No module updates available.
+6/20/2025, 12:25:42 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:25:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:25:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:25:43 AM CDT [Modules] No module updates available.
+6/20/2025, 12:27:54 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:27:54 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:27:54 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:27:54 AM CDT [Modules] No module updates available.
+6/20/2025, 12:47:01 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:47:01 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:47:01 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:47:01 AM CDT [Modules] No module updates available.
+6/20/2025, 12:47:36 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:47:37 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:47:37 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:47:37 AM CDT [Modules] No module updates available.
+6/20/2025, 12:54:43 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:54:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:54:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:54:43 AM CDT [Modules] No module updates available.
+6/20/2025, 12:55:45 AM CDT [Modules] Checking for host updates.
+6/20/2025, 12:55:45 AM CDT [Modules] Host is up to date.
+6/20/2025, 12:55:45 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 12:55:45 AM CDT [Modules] No module updates available.
+6/20/2025, 1:18:50 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:18:50 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:18:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:18:50 AM CDT [Modules] No module updates available.
+6/20/2025, 1:19:34 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:19:34 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:19:34 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:19:34 AM CDT [Modules] No module updates available.
+6/20/2025, 1:25:42 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:25:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:25:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:25:43 AM CDT [Modules] No module updates available.
+6/20/2025, 1:27:54 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:27:54 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:27:54 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:27:54 AM CDT [Modules] No module updates available.
+6/20/2025, 1:47:01 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:47:01 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:47:01 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:47:01 AM CDT [Modules] No module updates available.
+6/20/2025, 1:47:36 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:47:37 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:47:37 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:47:37 AM CDT [Modules] No module updates available.
+6/20/2025, 1:54:43 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:54:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:54:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:54:43 AM CDT [Modules] No module updates available.
+6/20/2025, 1:55:45 AM CDT [Modules] Checking for host updates.
+6/20/2025, 1:55:45 AM CDT [Modules] Host is up to date.
+6/20/2025, 1:55:45 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 1:55:45 AM CDT [Modules] No module updates available.
+6/20/2025, 2:18:50 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:18:50 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:18:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:18:50 AM CDT [Modules] No module updates available.
+6/20/2025, 2:19:34 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:19:34 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:19:34 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:19:34 AM CDT [Modules] No module updates available.
+6/20/2025, 2:25:42 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:25:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:25:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:25:43 AM CDT [Modules] No module updates available.
+6/20/2025, 2:27:54 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:27:54 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:27:54 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:27:54 AM CDT [Modules] No module updates available.
+6/20/2025, 2:47:01 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:47:03 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:47:03 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:47:03 AM CDT [Modules] No module updates available.
+6/20/2025, 2:47:36 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:47:37 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:47:37 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:47:37 AM CDT [Modules] No module updates available.
+6/20/2025, 2:54:43 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:54:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:54:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:54:43 AM CDT [Modules] No module updates available.
+6/20/2025, 2:55:45 AM CDT [Modules] Checking for host updates.
+6/20/2025, 2:55:45 AM CDT [Modules] Host is up to date.
+6/20/2025, 2:55:45 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 2:55:45 AM CDT [Modules] No module updates available.
+6/20/2025, 3:18:50 AM CDT [Modules] Checking for host updates.
+6/20/2025, 3:18:50 AM CDT [Modules] Host is up to date.
+6/20/2025, 3:18:50 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 3:18:50 AM CDT [Modules] No module updates available.
+6/20/2025, 3:19:34 AM CDT [Modules] Checking for host updates.
+6/20/2025, 3:19:34 AM CDT [Modules] Host is up to date.
+6/20/2025, 3:19:34 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 3:19:34 AM CDT [Modules] No module updates available.
+6/20/2025, 3:25:42 AM CDT [Modules] Checking for host updates.
+6/20/2025, 3:25:43 AM CDT [Modules] Host is up to date.
+6/20/2025, 3:25:43 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 3:25:43 AM CDT [Modules] No module updates available.
+6/20/2025, 3:27:54 AM CDT [Modules] Checking for host updates.
+6/20/2025, 3:27:54 AM CDT [Modules] Host is up to date.
+6/20/2025, 3:27:54 AM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 3:27:54 AM CDT [Modules] No module updates available.
+6/20/2025, 3:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 3:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 3:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 3:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 4:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 4:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 4:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:10:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:10:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:10:32 PM CDT [Modules] No module updates available.
+6/20/2025, 4:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 4:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 4:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:35:23 PM CDT [Modules] No module updates available.
+6/20/2025, 4:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 4:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 4:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 4:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 4:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 4:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 5:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 5:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 5:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:10:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:10:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:10:32 PM CDT [Modules] No module updates available.
+6/20/2025, 5:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 5:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 5:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:35:23 PM CDT [Modules] No module updates available.
+6/20/2025, 5:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 5:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 5:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 5:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 5:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 5:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 6:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 6:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 6:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:10:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:10:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:10:32 PM CDT [Modules] No module updates available.
+6/20/2025, 6:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 6:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 6:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:35:23 PM CDT [Modules] No module updates available.
+6/20/2025, 6:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 6:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 6:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 6:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 6:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 6:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 7:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 7:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 7:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:10:33 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:10:33 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:10:33 PM CDT [Modules] No module updates available.
+6/20/2025, 7:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 7:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 7:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:35:24 PM CDT [Modules] No module updates available.
+6/20/2025, 7:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 7:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 7:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 7:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 7:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 7:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 8:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 8:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 8:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:10:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:10:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:10:32 PM CDT [Modules] No module updates available.
+6/20/2025, 8:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 8:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 8:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:35:23 PM CDT [Modules] No module updates available.
+6/20/2025, 8:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 8:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 8:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 8:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 8:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 8:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 9:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 9:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 9:10:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:10:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:10:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:10:32 PM CDT [Modules] No module updates available.
+6/20/2025, 9:11:34 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:11:34 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:11:34 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:11:34 PM CDT [Modules] No module updates available.
+6/20/2025, 9:34:40 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:34:40 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:34:40 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:34:40 PM CDT [Modules] No module updates available.
+6/20/2025, 9:35:23 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:35:23 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:35:23 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:35:24 PM CDT [Modules] No module updates available.
+6/20/2025, 9:41:32 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:41:32 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:41:32 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:41:32 PM CDT [Modules] No module updates available.
+6/20/2025, 9:43:43 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:43:43 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:43:43 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:43:43 PM CDT [Modules] No module updates available.
+6/20/2025, 9:52:20 PM CDT [Modules] Checking for host updates.
+6/20/2025, 9:52:20 PM CDT [Modules] Host is up to date.
+6/20/2025, 9:52:20 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 9:52:20 PM CDT [Modules] No module updates available.
+6/20/2025, 10:02:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:02:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:02:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:02:51 PM CDT [Modules] No module updates available.
+6/20/2025, 10:03:26 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:03:26 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:03:26 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:03:26 PM CDT [Modules] No module updates available.
+6/20/2025, 10:14:38 PM CDT [Modules] Modules initializing
+6/20/2025, 10:14:38 PM CDT [Modules] Distribution: remote
+6/20/2025, 10:14:38 PM CDT [Modules] Host updates: enabled
+6/20/2025, 10:14:38 PM CDT [Modules] Module updates: enabled
+6/20/2025, 10:14:38 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/20/2025, 10:14:38 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/20/2025, 10:14:38 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/20/2025, 10:14:38 PM CDT [Modules] No updates to install
+6/20/2025, 10:14:38 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:14:38 PM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/20/2025, 10:14:48 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:14:48 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:14:48 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:14:48 PM CDT [Modules] No module updates available.
+6/20/2025, 10:14:57 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:14:57 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:14:57 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:14:57 PM CDT [Modules] No module updates available.
+6/20/2025, 10:18:40 PM CDT [Modules] Modules initializing
+6/20/2025, 10:18:40 PM CDT [Modules] Distribution: remote
+6/20/2025, 10:18:40 PM CDT [Modules] Host updates: enabled
+6/20/2025, 10:18:40 PM CDT [Modules] Module updates: enabled
+6/20/2025, 10:18:40 PM CDT [Modules] Module install path: /home/bobywoby/.config/discord/0.0.98/modules
+6/20/2025, 10:18:40 PM CDT [Modules] Module installed file path: /home/bobywoby/.config/discord/0.0.98/modules/installed.json
+6/20/2025, 10:18:40 PM CDT [Modules] Module download path: /home/bobywoby/.config/discord/0.0.98/modules/pending
+6/20/2025, 10:18:41 PM CDT [Modules] No updates to install
+6/20/2025, 10:18:41 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:18:41 PM CDT [Modules] Host update failed: Error: getaddrinfo EAI_AGAIN discord.com
+6/20/2025, 10:18:51 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:18:51 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:18:51 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:18:51 PM CDT [Modules] No module updates available.
+6/20/2025, 10:18:56 PM CDT [Modules] Checking for host updates.
+6/20/2025, 10:18:56 PM CDT [Modules] Host is up to date.
+6/20/2025, 10:18:56 PM CDT [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+6/20/2025, 10:18:56 PM CDT [Modules] No module updates available.

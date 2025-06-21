@@ -1,0 +1,19 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "initial_layer_print_height": "0.1",
+    "layer_height": "0.1",
+    "name": "BBLX1CC_precise",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_sequence": "by object",
+    "print_settings_id": "BBLX1CC_precise",
+    "sparse_infill_density": "50%",
+    "sparse_infill_pattern": "cubic",
+    "version": "1.8.0.25"
+}

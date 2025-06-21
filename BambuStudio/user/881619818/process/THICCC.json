@@ -1,0 +1,17 @@
+{
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "THICCC",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_settings_id": "THICCC",
+    "sparse_infill_density": "100%",
+    "sparse_infill_pattern": "zig-zag",
+    "version": "1.10.0.27",
+    "wall_loops": "3"
+}

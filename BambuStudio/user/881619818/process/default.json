@@ -1,0 +1,16 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @BBL X1C",
+    "name": "default",
+    "print_extruder_id": [
+        "1"
+    ],
+    "print_extruder_variant": [
+        "Direct Drive Standard"
+    ],
+    "print_sequence": "by object",
+    "print_settings_id": "default",
+    "sparse_infill_density": "50%",
+    "sparse_infill_pattern": "cubic",
+    "version": "1.9.0.14"
+}

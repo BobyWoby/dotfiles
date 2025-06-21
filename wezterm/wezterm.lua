@@ -21,6 +21,12 @@ config.color_scheme = 'Batman'
 -- Finally, return the configuration to wezterm:
 config.enable_wayland = false
 
+resurrect.state_manager.periodic_save({
+    interval_seconds = 1 * 60,
+    save_workspaces = true,
+    save_windows = true,
+    save_tabs = true,
+})
 wezterm.on('gui-startup', function(cmd)
     -- allow `wezterm start -- something` to affect what we spawn
     -- in our initial window
