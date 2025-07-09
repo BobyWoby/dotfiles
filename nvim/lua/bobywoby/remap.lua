@@ -52,9 +52,8 @@ vim.keymap.set('n', 'ga', function ()
     vim.lsp.buf.code_action()
 end)
 
-
-
-
+-- Makes it so  leader p pastes  over line without copying it
+vim.keymap.set("x", "<leader>p", [["_dP]])
 
 -- Debugging keymaps
 vim.keymap.set("n", "<C-b>", function ()
