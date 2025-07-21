@@ -98,8 +98,6 @@ use {
     "jay-babu/mason-nvim-dap.nvim",
 }
 
-
-
 -- Comment
 use {
     'numToStr/Comment.nvim',
