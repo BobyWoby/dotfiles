@@ -44,15 +44,17 @@ vim.api.nvim_create_autocmd('LspAttach', {
 })
 
 local util = require "lspconfig/util"
-
+require("mason-lspconfig").setup {
+    automatic_enable = true
+}
 -- Language Server stuff
-require 'lspconfig'.clangd.setup {}
-require 'lspconfig'.lua_ls.setup {}
-require 'lspconfig'.jdtls.setup {}
-require 'lspconfig'.rust_analyzer.setup {}
-require 'lspconfig'.bashls.setup {}
-require 'lspconfig'.cmake.setup {}
-require 'lspconfig'.gopls.setup {}
+-- require 'lspconfig'.clangd.setup {}
+-- require 'lspconfig'.lua_ls.setup {}
+-- require 'lspconfig'.jdtls.setup {}
+-- require 'lspconfig'.rust_analyzer.setup {}
+-- require 'lspconfig'.bashls.setup {}
+-- require 'lspconfig'.cmake.setup {}
+-- require 'lspconfig'.gopls.setup {}
 
 -- Auto-Complete
 local cmp = require('cmp')
@@ -110,9 +112,9 @@ vim.diagnostic.config({
     update_in_insert = true
 })
 
-require("lspconfig").gopls.setup({
-    capabilities = require("cmp_nvim_lsp").default_capabilities(),
-})
+-- require("lspconfig").gopls.setup({
+--     capabilities = require("cmp_nvim_lsp").default_capabilities(),
+-- })
 -- local cmp = require('cmp')
 -- function
 -- cmp.setup({

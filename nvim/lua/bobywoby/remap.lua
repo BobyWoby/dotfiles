@@ -11,7 +11,6 @@ vim.keymap.set("v", "<C-k>", 'yp')
 
 -- Makes it so that my  delete doesn't save   into my  paste registe
 vim.keymap.set("n", "<leader>d", '"_d')
-vim.keymap.set("v", "d", '"_d')
 
 -- Insert Matching Braces
 vim.keymap.set("i", '(', '()<Esc>ha')
@@ -40,6 +39,11 @@ end, { silent = true, noremap = true, desc = 'toggle signature' })
 vim.keymap.set('i', "<C-c>", "<Esc>");
 
 
+vim.keymap.set("n",  "<leader>nf", "<cmd>Neogen<CR>");
+--
+-- local opts = { noremap = true, silent = true }
+-- vim.api.nvim_set_keymap("n", "<Leader>ng", ":lua require('neogen').generate()<CR>", opts)
+--
 
 vim.keymap.set({ 'n' }, '<C-k>', function()       require('lsp_signature').toggle_float_win()
     end, { silent = true, noremap = true, desc = 'toggle signature' })
@@ -53,7 +57,7 @@ vim.keymap.set('n', 'ga', function ()
 end)
 
 -- Makes it so  leader p pastes  over line without copying it
-vim.keymap.set("x", "<leader>p", [["_dP]])
+vim.keymap.set("x", "p", [["_dP]])
 
 -- Debugging keymaps
 vim.keymap.set("n", "<C-b>", function ()

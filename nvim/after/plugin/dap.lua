@@ -28,6 +28,10 @@ dap.configurations.cpp = {
     program = function()
       return vim.fn.input('Path to executable: ', vim.fn.getcwd() .. '/build/', 'file')
     end,
+    -- args = function()
+    --      local args_string = vim.fn.input('Arguments: ')
+    --   return vim.split(args_string, " +") -- Split the input string by spaces
+    -- end,
     cwd = '${workspaceFolder}',
     stopAtEntry = true,
   },
