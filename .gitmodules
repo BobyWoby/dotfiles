@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:BobyWoby/nvim.git
+[submodule "scripts/paru"]
+	path = scripts/paru
+	url = https://aur.archlinux.org/paru.git
