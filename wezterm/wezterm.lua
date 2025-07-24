@@ -17,6 +17,8 @@ config.initial_rows = 28
 config.font_size = 18
 config.font = wezterm.font('JetBrainsMono Nerd Font')
 config.color_scheme = 'Batman'
+config.adjust_window_size_when_changing_font_size = false
+
 
 -- Finally, return the configuration to wezterm:
 config.enable_wayland = false
@@ -27,6 +29,7 @@ resurrect.state_manager.periodic_save({
     save_windows = true,
     save_tabs = true,
 })
+
 wezterm.on('gui-startup', function(cmd)
     -- allow `wezterm start -- something` to affect what we spawn
     -- in our initial window

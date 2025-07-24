@@ -19,6 +19,16 @@ function binds.apply(config)
 
     config.keys = {
         {
+            key = '=',
+            mods = 'ALT',
+            action = wezterm.action.IncreaseFontSize,
+        },
+        {
+            key = '-',
+            mods = 'ALT',
+            action = wezterm.action.DecreaseFontSize,
+        },
+        {
             key = 'p',
             mods = 'ALT',
             -- Present in to our project picker
